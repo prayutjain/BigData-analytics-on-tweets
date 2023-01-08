@@ -1,4 +1,4 @@
-# Tweet-Analysis-Education-sector
+# BigData analytics on tweets - use of MinHash to test similarity of texts
 
 Our objective is to analyze the tweets concerning topics of education in 2022 and figure out the trends and other visible dynamics in the education sector. This analysis was performed in pySpark on Google Clous clusters for the tweets related to topics of education, schools, universities, learning, knowledge sharing, etc. The aim of this exercise is to highlight the following:
 
